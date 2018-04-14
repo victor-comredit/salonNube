@@ -1,0 +1,18 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.nubeadm.comredit"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.nubeadm.comredit"
+        }
+    },
+    "dependent_plugins": {}
+}
